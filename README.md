@@ -1,4 +1,4 @@
-# spoug-github-actions-2025-04
+<img width="1406" alt="image" src="https://github.com/user-attachments/assets/ae49b7d6-9e3a-4b5e-8be4-2fe48ab17085" /># spoug-github-actions-2025-04
 
 # Programoversigt
 
@@ -59,3 +59,7 @@ Vi bruger M365x15655316 tenant'en
 
 
 
+## Credentials
+Your credentials will be placed in your OneDrive folder.
+
+<img width="1406" alt="image" src="https://github.com/user-attachments/assets/cf8139b1-6ded-484a-8387-b26464e255c9" />
