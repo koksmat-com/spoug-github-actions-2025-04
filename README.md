@@ -1,4 +1,3 @@
-<img width="1406" alt="image" src="https://github.com/user-attachments/assets/ae49b7d6-9e3a-4b5e-8be4-2fe48ab17085" /># spoug-github-actions-2025-04
 
 # Programoversigt
 
