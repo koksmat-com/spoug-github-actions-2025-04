@@ -35,3 +35,27 @@
   Deltagerne arbejder selvstændigt med casen: Provisionering, monitorering samt ad-hoc opgaver såsom oprettelse af SharePoint sites, lister, mødelokaler, distributionslister og kontrol af gæstebrugere.
 - **14:00 – 14:40:** Fremlæggelser  
   Deltagerne viser deres projekter og demonstrerer, hvordan GitHub Actions har
+
+
+## Users
+[cdx](https://cdx.transform.microsoft.com/my-tenants/tenant-details/c1b58e0e-7818-4f63-b011-71efce3f85e4)
+
+Vi bruger M365x15655316 tenant'en
+
+| User # | UPN                              |
+|------|--------------------------------------------------|
+| 1    | adelev@M365x15655316.onmicrosoft.com             |
+| 2    | alexw@M365x15655316.onmicrosoft.com              |
+| 3    | alexw@M365x15655316.onmicrosoft.com              |
+| 4    | alland@M365x15655316.onmicrosoft.com             |
+| 5    | christiec@M365x15655316.onmicrosoft.com          |
+| 6    | debrab@M365x15655316.onmicrosoft.com             |
+| 7    | diegos@M365x15655316.onmicrosoft.com             |
+| 8    | gradya@M365x15655316.onmicrosoft.com             |
+| 9    | irvins@M365x15655316.onmicrosoft.com             |
+| 10   | isaiahl@M365x15655316.onmicrosoft.com            |
+
+
+
+
+
