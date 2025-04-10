@@ -20,6 +20,11 @@
   Hands-on øvelse: Udlevering af credentials samt opsætning af GitHub Action secrets og variabler.
 - **10:50 – 11:00:** Kort pause / Q&A  
   Tid til spørgsmål og afklaring.
+- **11:00 – 11:30:** Sikkerhed og samarbejde
+  Vi gennemgår nogle af mulighederne for at beskytte mod fejl og hvordan man kan bruge forks til at genbruge samt pull requests til at dele 
+- **11:30 – 12:00:** Definition af cases
+  Vi definerer cases og finder ud af om der skal laves nogle hold.
+
 
 **FROKOSTPAUSE**
 
