@@ -50,7 +50,7 @@ Vi bruger M365x15655316 tenant'en
 |------|--------------------------------------------------|
 | Anders    | adelev@M365x15655316.onmicrosoft.com             |
 | Thomas    | alexw@M365x15655316.onmicrosoft.com              |
-| Morten    | alexw@M365x15655316.onmicrosoft.com              |
+| Morten    | gradya@M365x15655316.onmicrosoft.com              |
 | Mike    | alland@M365x15655316.onmicrosoft.com             |
 | Leif    | christiec@M365x15655316.onmicrosoft.com          |
 | Jacob    | debrab@M365x15655316.onmicrosoft.com             |
